@@ -123,6 +123,7 @@ def main():
 
     # show the figure
     matplotlib.pyplot.show()
+    figure.savefig('rdp-graph.png')
 
 
 if __name__ == '__main__':
