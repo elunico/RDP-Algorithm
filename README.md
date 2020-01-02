@@ -11,6 +11,8 @@ Pass values for epsilon in as arguments to the program.
 
 ## Examples
 
+[![Run on Repl.it](https://repl.it/badge/github/elunico/RDP-Algorithm)](https://repl.it/github/elunico/RDP-Algorithm)
+
 `python main.py 0.01`
 ![Screenshot of matplotlib showing the program run with 0.01 as argument](images/rdp-001.png)
 
